@@ -15,5 +15,5 @@ These results are the subject to change; always try to make your own tests.
 Links
 ---
 
-https://developers.google.com/speed/pagespeed/insights/
-https://developers.google.com/speed/docs/insights/about
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [PageSpeed Insights Documentation](https://developers.google.com/speed/docs/insights/about)
